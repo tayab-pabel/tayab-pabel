@@ -1,0 +1,12 @@
+.WorkingProcess h4{
+    font-size: 20px;
+}
+
+.WorkingProcess .fas {
+    font-size: 30px;
+
+}
+
+.WorkingProcess .single-card {
+    border: 2px solid #f3c623;
+}
