@@ -22,7 +22,7 @@ const Profile = () => {
                     <a className="btn mr-1" href="https://github.com/tayab-pabel/tayab-pabel/raw/master/src/resume/Resume%20of%20MD.%20Abu%20Tayab%20Pabel.pdf" target="_blank" rel="noopener noreferrer" download>Get Resume</a>
                     <Link to="/about" className="btn ml-1">About Me</Link>
                 </div>
-                <div className="col-lg-5 d-flex justify-content-center py-5 animate__fadeInRight">
+                <div className="col-lg-5 d-flex justify-content-center animate__animated animate__fadeInRight">
                     <img className="img-fluid profile-image" src={profileImage} alt=""/>
                 </div>
             </div>

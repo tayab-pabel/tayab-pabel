@@ -26,7 +26,7 @@ import figma from '../../../images/icons/figma.png';
 
 const Skills = () => {
     return (
-        <div className="Skills container text-center py-5">
+        <div className="Skills container text-center py-5 mt-5 animate__animated animate__zoomIn">
             <div className="header">
                 <h2>TECHNICAL <span>SKILLS</span></h2>
                 <p>First you should know</p>
@@ -128,16 +128,16 @@ const Skills = () => {
                         <figcaption style={{marginTop:'4px'}}>cPanel</figcaption>
                     </div>
                     <div>
+                        <img className="mx-4 my-3" style={{width:'50px'}} src={cdt} alt=""/>
+                        <figcaption style={{marginTop:'4px'}}>Chrome Dev Tools</figcaption>
+                    </div>
+                    <div>
                         <img className="mx-4 my-3" style={{width:'48px'}} src={xd} alt=""/>
                         <figcaption style={{marginTop:'6px'}}>Adobe XD</figcaption>
                     </div>
                     <div>
                         <img className="mx-4 my-3" style={{width:'29px'}} src={figma} alt=""/>
                         <figcaption style={{marginTop:'10px'}}>Figma</figcaption>
-                    </div>
-                    <div>
-                        <img className="mx-4 my-3" style={{width:'50px'}} src={cdt} alt=""/>
-                        <figcaption style={{marginTop:'4px'}}>Chrome Dev Tools</figcaption>
                     </div>
                 </div>
             </div>
