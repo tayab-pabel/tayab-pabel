@@ -5,7 +5,7 @@ import Profile from './Profile/Profile';
 
 const Header = () => {
     return (
-        <div className="Header d-flex justify-content-center align-items-center">
+        <div className="Header">
             <Navbar/>
             <Profile/>
         </div>

@@ -6,7 +6,7 @@ import { Link } from 'react-router-dom';
 
 const About = () => {
     return (
-        <div className="About pt-5">
+        <div className="About">
             <Navbar/>
             <div className="container py-5">
                 <div className="header text-center">
@@ -19,7 +19,7 @@ const About = () => {
                 <div className="row">
                     <div className="col-md-5 text-center py-4">
                         <img className="img-fluid profile-image" src={profileImage} alt=""/>
-                        <p className="description mt-4">I have a strong passion for the creativity and discipline that goes into front-end development. Keeping in mind scalability and clean code that is maintainable and readable. In my free time, I enjoy being outdoors, listening to music, traveling and experiencing new and exciting adventures.</p>
+                        <p className="description mt-4">I have a strong passion for the creativity and discipline that goes into front-end development. Keeping in mind scalability and clean code that is maintainable and readable. In my free time, I enjoy being outdoors, listening to music, traveling and experiencing new and exciting adventures. I am available for any kind of job opportunity that suits my interests.</p>
                         <Link to="/contact" className="btn mr-1">Contact</Link>
                         <Link to="/blogs" className="btn ml-1">My Blogs</Link>
                     </div>

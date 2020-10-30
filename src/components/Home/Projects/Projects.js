@@ -10,8 +10,7 @@ import project6 from '../../../images/projects/hot-gadgets.png';
 
 const Projects = () => {
     return (
-        <div className="Projects pt-5">
-            <Navbar/>
+        <div className="Projects">
             <div className="container py-5">
                 <div className="header text-center">
                     <h2>MY LATEST <span>PROJECTS</span></h2>

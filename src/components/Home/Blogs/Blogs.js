@@ -1,13 +1,11 @@
 import React from 'react';
-import Navbar from '../../Navbar/Navbar';
 import './Blogs.css';
 import blog1 from '../../../images/blogs/blog1.jpg';
 import blog2 from '../../../images/blogs/blog2.png';
 
 const Blogs = () => {
     return (
-        <div className="Blogs pt-5">
-            <Navbar/>
+        <div className="Blogs">
             <div className="container py-5">
                 <div className="header text-center">
                     <h2>MY LATEST <span>BLOG</span></h2>
