@@ -6,10 +6,10 @@ import {
   Route
 } from "react-router-dom";
 import About from './components/About/About';
-import Projects from './components/Projects/Projects';
-import Home from './components/Home/Home';
-import Blogs from './components/Blogs/Blogs';
-import Contact from './components/Contact/Contact';
+import Home from './components/Home/Home/Home';
+import Blog from './components/Blog/Blog';
+import Project from './components/Project/Project';
+import Contacts from './components/Contacts/Contacts';
 
 function App() {
   return (
@@ -22,13 +22,13 @@ function App() {
             <About />
         </Route>
         <Route path="/projects">
-            <Projects />
+            <Project />
         </Route>
         <Route path="/blogs">
-            <Blogs />
+            <Blog />
         </Route>
         <Route path="/contact">
-            <Contact />
+            <Contacts />
         </Route>
       </Switch>
     </Router>
