@@ -58,20 +58,21 @@
     color: #f3c623;
 }
 
-.About .wrapper
-{
+.About i {
+    font-size: 30px;
+}
+
+.About .wrapper {
 	padding-bottom: 50px;
 }
 
-.About .divider
-{
+.About .divider {
 	position: relative;
 	margin-top: 30px;
 	height: 1px;
 }
 
-.About .div-transparent:before
-{
+.About .div-transparent:before {
 	content: "";
 	position: absolute;
 	top: 0;
@@ -82,8 +83,7 @@
 	background: #fff;
 }
 
-.About .div-dot:after
-{
+.About .div-dot:after {
 	content: "";
 	position: absolute;
 	z-index: 1;

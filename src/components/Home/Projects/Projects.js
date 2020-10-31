@@ -1,5 +1,4 @@
 import React from 'react';
-import Navbar from '../../Navbar/Navbar';
 import './Projects.css';
 import project1 from '../../../images/projects/creative-agency.png';
 import project2 from '../../../images/projects/doctors-portal.png';

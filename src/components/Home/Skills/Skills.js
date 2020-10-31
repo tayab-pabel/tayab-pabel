@@ -26,7 +26,7 @@ import figma from '../../../images/icons/figma.png';
 
 const Skills = () => {
     return (
-        <div className="Skills container text-center py-5 mt-5 animate__animated animate__zoomIn">
+        <div className="Skills container text-center py-5 my-5">
             <div className="header">
                 <h2>TECHNICAL <span>SKILLS</span></h2>
                 <p>First you should know</p>
