@@ -14,7 +14,7 @@
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/Tayab.Pabel5/)
 [![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://medium.com/@tayab_pabel)
 [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/13954193/tayab-pabel)
-
+<br />
 
 ### Languages, Frameworks and Tools:
 
@@ -31,11 +31,8 @@
 [<img align="left" alt="VS Code" width="25px" src="https://tayabpabel.com/static/media/vs-code.e379a736.png" />][webdevplaylist]
 [<img align="left" alt="VS Code" width="25px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />][webdevplaylist]
 [<img align="left" alt="VS Code" width="28px" src="https://www.flaticon.com/svg/static/icons/svg/25/25231.svg" />][webdevplaylist]
-
 <br />
-
 <br />
-
 <br />
 <br />
 <img width="550px" alt="Tayab Pabel Github Stats"  src="https://github-readme-stats.vercel.app/api?username=tayab-pabel&show_icons=true&theme=radical"/>
