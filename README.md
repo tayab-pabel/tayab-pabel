@@ -1,8 +1,8 @@
 # Hi there, I'm [Tayab Pabel][website]👨‍💻
 
-### Welcome to my GitHub's World.
+### Welcome to my GitHub's World👋
 
-## I'm a JavaScript Enthusiast! 🚀
+## I'm a JavaScript Enthusiast!🚀
 
 - 💻 I'm passionate about what I learn and apply them into real life.
 - ⌚ 2020 Goals: Learn MERN Stack.
