@@ -1,7 +1,17 @@
 import React from 'react';
+import emailjs from 'emailjs-com';
 import './Contact.css';
 
 const Contact = () => {
+    function sendEmail(e) {
+        e.preventDefault();
+        emailjs.sendForm('service_694sml8', 'template_w24uwnh', e.target, 'user_xlQ6Dmyc9a3Bm95DeCbB6')
+          .then((result) => {
+              console.log(result.text);
+          }, (error) => {
+              console.log(error.text);
+          });
+    }
     return (
         <div className="Contact">
             <div className="container py-5">
@@ -26,7 +36,7 @@ const Contact = () => {
                         </div>
                     </div>
                     <div className="col-md-7 mt-md-0 mt-5">
-                        <form action="https://formspree.io/f/tayabpabel@gmail.com" method="POST">
+                        <form onSubmit={sendEmail}>
                             <div className="form-group">
                                 <input type="text" placeholder="Name" name="name" className="form-control p-4"/>
                             </div>
