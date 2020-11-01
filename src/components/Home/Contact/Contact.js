@@ -36,12 +36,12 @@ const Contact = () => {
                         </div>
                     </div>
                     <div className="col-md-7 mt-md-0 mt-5">
-                        <form onSubmit={sendEmail}>
+                        <form action="" onSubmit={sendEmail}>
                             <div className="form-group">
-                                <input type="text" placeholder="Name" name="name" className="form-control p-4"/>
+                                <input type="text" placeholder="Name" name="user_name" className="form-control p-4"/>
                             </div>
                             <div className="form-group">
-                                <input type="email" placeholder="Email" name="email" className="form-control p-4"/>
+                                <input type="email" placeholder="Email" name="user_email" className="form-control p-4"/>
                             </div>
                             <div className="form-group">
                                 <textarea className="form-control p-4" rows="4" placeholder="Message" name="message"></textarea>
