@@ -19,7 +19,7 @@ const Profile = () => {
                         <a href="https://twitter.com/tayabpabel" target="_blank" rel="noopener noreferrer"><i className="fab fa-twitter"></i></a>
                     </div>
                     <p className="description mt-3 mt-md-4 mb-4">I am a passionate Web Developer. I love to code modern and responsive layouts for web application. My core skill is based on JavaScript and I love to do most things using JavaScript.</p>
-                    <a className="btn mr-1" href="https://github.com/tayab-pabel/tayab-pabel/raw/master/src/resume/Resume%20of%20MD.%20Abu%20Tayab%20Pabel.pdf" target="_blank" rel="noopener noreferrer" download>Get Resume</a>
+                    <a className="btn mr-1" href="https://github.com/tayab-pabel/tayab-pabel/raw/master/src/resume/Resume%20of%20Tayab%20Pabel.pdf" target="_blank" rel="noopener noreferrer" download>Get Resume</a>
                     <Link to="/about" className="btn ml-1">About Me</Link>
                 </div>
                 <div className="col-lg-5 d-flex justify-content-center animate__animated animate__fadeInRight">
