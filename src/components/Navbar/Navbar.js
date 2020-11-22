@@ -31,7 +31,7 @@ const Navbar = () => {
                             <Link className="nav-link mr-4" to="/contact"><span>CONTACT</span></Link>
                         </li>
                         </ul>
-                        <a className="btn" href="https://github.com/tayab-pabel/tayab-pabel/raw/master/src/resume/Resume%20of%20MD.%20Abu%20Tayab%20Pabel.pdf" target="_blank" rel="noopener noreferrer" download>RESUME</a>
+                        <a className="btn" href="https://github.com/tayab-pabel/tayab-pabel/raw/master/src/resume/Resume%20of%20Tayab%20Pabel.pdf" target="_blank" rel="noopener noreferrer" download>RESUME</a>
                     </div>
                 </div>
             </nav>
