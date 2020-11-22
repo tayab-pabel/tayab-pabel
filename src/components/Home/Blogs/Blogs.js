@@ -55,7 +55,7 @@ const Blogs = () => {
                             <div className="card-body">
                                 <h4 className="card-title">10 essential things must know about JavaScript <span aria-label="" role="img">👨‍💻</span></h4>
                                 <p className="card-text">1. Primitive Values: A primitive value is a single simple data value with no additional properties and methods. 2. Objects and Functions Objects - used to group related data and code... </p>
-                                <a href="https://medium.com/@tayab_pabel/every-programmer-needs-an-anti-blue-light-glass-862b4e0aaef8" target="_blank" rel="noopener noreferrer" className="btn">Read More</a>
+                                <a href="https://tayab-pabel.medium.com/10-essential-things-must-know-about-javascript-c189c5070d94" target="_blank" rel="noopener noreferrer" className="btn">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -65,7 +65,7 @@ const Blogs = () => {
                             <div className="card-body">
                                 <h4 className="card-title">10 things you need to know about react <span aria-label="" role="img">🔯</span></h4>
                                 <p className="card-text">1. ReactDOM.render(): Purpose of the ReactDOM.render() is to display the specified HTML code inside the specified HTML element. 2. React.createElement(): It is used to create elements... </p>
-                                <a href="https://medium.com/@tayab_pabel/every-programmer-needs-an-anti-blue-light-glass-862b4e0aaef8" target="_blank" rel="noopener noreferrer" className="btn">Read More</a>
+                                <a href="https://tayab-pabel.medium.com/10-things-you-need-to-know-about-react-b6ae979ad42b" target="_blank" rel="noopener noreferrer" className="btn">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -75,7 +75,7 @@ const Blogs = () => {
                             <div className="card-body">
                                 <h4 className="card-title">As a junior developer, 10 JavaScript concepts you need to know for interviews <span aria-label="" role="img">👨‍💻</span></h4>
                                 <p className="card-text">1. Truthy and Falsy values: Truthy value is a value that is defined true when run into in a boolean context. Everything else is truthy... </p>
-                                <a href="https://medium.com/@tayab_pabel/every-programmer-needs-an-anti-blue-light-glass-862b4e0aaef8" target="_blank" rel="noopener noreferrer" className="btn">Read More</a>
+                                <a href="https://tayab-pabel.medium.com/as-a-junior-developer-10-javascript-concepts-you-need-to-know-for-interviews-8157356e809f" target="_blank" rel="noopener noreferrer" className="btn">Read More</a>
                             </div>
                         </div>
                     </div>

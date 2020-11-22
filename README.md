@@ -17,25 +17,6 @@
 <br />
 <br />
 
-### Languages, Frameworks and Tools:
-
-[<img align="left" alt="React" width="26px" src="https://tayabpabel.com/static/media/react.70f87bba.png" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="24px" src="https://tayabpabel.com/static/media/nodejs.c502658a.png" />][webdevplaylist]
-[<img align="left" alt="Express.js" width="26px" src="https://tayabpabel.com/static/media/expressjs.b62fd807.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="30px" src="https://tayabpabel.com/static/media/mongodb.28ec40a4.png" />][webdevplaylist]
-[<img align="left" alt="JS" width="24px" src="https://tayabpabel.com/static/media/js.a38d9c99.png" />][webdevplaylist]
-[<img align="left" alt="Bootstrap" width="30px" src="https://tayabpabel.com/static/media/bootstrap.7321a5c4.png" />][webdevplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][webdevplaylist]
-[<img align="left" alt="HTML" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png" />][webdevplaylist]
-[<img align="left" alt="CSS" width="23px" src="https://tayabpabel.com/static/media/css.92931bf3.png" />][webdevplaylist]
-[<img align="left" alt="Firebase" width="20px" src="https://tayabpabel.com/static/media/firebase.c24b6b9c.png" />][webdevplaylist]
-[<img align="left" alt="VS Code" width="25px" src="https://tayabpabel.com/static/media/vs-code.e379a736.png" />][webdevplaylist]
-[<img align="left" alt="VS Code" width="25px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />][webdevplaylist]
-[<img align="left" alt="VS Code" width="28px" src="https://www.flaticon.com/svg/static/icons/svg/25/25231.svg" />][webdevplaylist]
-<br />
-<br />
-<br />
-<br />
 <img width="550px" alt="Tayab Pabel Github Stats"  src="https://github-readme-stats.vercel.app/api?username=tayab-pabel&show_icons=true&theme=radical"/>
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=tayab-pabel&card_width=550&)](https://github.com/tayab-pabel/tayab-pabel)
