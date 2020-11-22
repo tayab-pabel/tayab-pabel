@@ -1,19 +1,9 @@
 import React from 'react';
-import emailjs from 'emailjs-com';
 import './Contact.css';
 
 const Contact = () => {
-    function sendEmail(e) {
-        e.preventDefault();
-        emailjs.sendForm('service_694sml8', 'template_w24uwnh', e.target, 'user_xlQ6Dmyc9a3Bm95DeCbB6')
-          .then((result) => {
-              console.log(result.text);
-          }, (error) => {
-              console.log(error.text);
-          });
-    }
     return (
-        <div className="Contact">
+        <div className="Contact">  
             <div className="container py-5">
                 <div className="header text-center">
                     <h2>CONTACT <span>ME</span></h2>
@@ -36,7 +26,7 @@ const Contact = () => {
                         </div>
                     </div>
                     <div className="col-md-7 mt-md-0 mt-5">
-                        <form action="" onSubmit={sendEmail}>
+                        <form action="">
                             <div className="form-group">
                                 <input type="text" placeholder="Name" name="user_name" className="form-control p-4"/>
                             </div>
