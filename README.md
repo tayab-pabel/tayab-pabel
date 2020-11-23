@@ -19,7 +19,7 @@
 
 <img width="550px" alt="Tayab Pabel Github Stats"  src="https://github-readme-stats.vercel.app/api?username=tayab-pabel&show_icons=true&theme=radical"/>
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=tayab-pabel&card_width=550&)](https://github.com/tayab-pabel/tayab-pabel)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=tayab-pabel&card_width=550&&theme=radical)](https://github.com/tayab-pabel/tayab-pabel)
 
 [website]: https://tayabpabel.com
 [medium]: https://medium.com/@tayab_pabel
