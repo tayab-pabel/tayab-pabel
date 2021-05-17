@@ -2,7 +2,7 @@
 
 ### Welcome to my GitHub's World👋
 
-## I'm a JavaScript Enthusiast!🚀
+## I'm a Tech Enthusiast!🚀
 
 - 💻 I'm passionate about what I learn and apply them into real life.
 - ⌚ 2021 Goals: Learn Full Stack Development.
