@@ -12,7 +12,7 @@ A curiosity-driven coder with a passion for designing and building user-centric,
 :e-mail: &emsp;How to reach me: tayabpabel@gmail.com.<br/>
 ⚡ &emsp;Fun fact: I co-founded a digital agency <a href="https://webcrewbd.com/" target="_blank">WebCrew</a>.
 
-## Skills 🎯🚀
+## Skills 🚀
 #### Languages & Frameworks
 [![Javascript Badge](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)](#) 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&logo=react&logoColor=black)](#)
