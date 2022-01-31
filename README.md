@@ -14,7 +14,7 @@ A curiosity-driven coder with a passion for designing and building user-centric,
 
 #### Things I code with
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
-[![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-38BDF9?style=for-the-badge&labelColor=black&logo=tailwindcss&logoColor=38BDF9&labelColor=000000)](#) 
+[![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-38BDF9?style=for-the-badge&labelColor=black&logo=tailwindcss&logoColor=000000)](#) 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
 [![Next.js Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#) 
 [![Gatsby Badge](https://img.shields.io/badge/gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)](#) 
