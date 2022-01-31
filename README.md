@@ -1,7 +1,6 @@
-### Hi there 👋
+## Hello 👋🏻 , I’m Tayab Pabel
 
-
-**tayab-pabel/tayab-pabel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A curiosity-driven coder with a passion for designing and building user-centric, inclusive experiences on the web. Currently, I’m focused on building accessible digital experiences at WebCrew.
 
 Here are some ideas to get you started:
 
