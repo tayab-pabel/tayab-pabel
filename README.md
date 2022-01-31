@@ -13,9 +13,9 @@ A curiosity-driven coder with a passion for designing and building user-centric,
 ⚡ &emsp;Fun fact: I co-founded a digital agency <a href="https://webcrewbd.com/" target="_blank">WebCrew</a>.
 
 #### Things I code with
-[![Javascript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#) 
-[![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#) 
-[![Next.js Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#) 
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
+[![Next.js Badge](https://img.shields.io/badge/next.js-white?style=for-the-badge&labelColor=black&logo=nextdotjs&logoColor=white)](#) 
 [![Gatsby Badge](https://img.shields.io/badge/gatsby-663399?style=for-the-badge&labelColor=black&logo=gatsby&logoColor=663399)](#) 
 [![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-29A5E9?style=for-the-badge&labelColor=black&logo=tailwindcss&logoColor=29A5E9)](#)
 [![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7510F7?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=7510F7)](#) 
