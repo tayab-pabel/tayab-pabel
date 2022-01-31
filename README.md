@@ -14,11 +14,10 @@ A curiosity-driven coder with a passion for designing and building user-centric,
 
 #### Things I code with
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
-[![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-38BDF9?style=for-the-badge&labelColor=0B1120&logo=tailwindcss&logoColor=38BDF9)](#) 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
 [![Next.js Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#) 
 [![Gatsby Badge](https://img.shields.io/badge/gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)](#) 
-
+[![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-38BDF9?style=for-the-badge&logo=tailwindcss&logoColor=38BDF9)](#) 
 [![Bootstrap Badge](https://img.shields.io/badge/Bootstrap%20CSS-092749?style=for-the-badge&logo=bootstrap&logoColor=06B6D4&labelColor=000000)](#) 
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) 
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
