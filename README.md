@@ -10,5 +10,5 @@ A curiosity-driven coder with a passion for designing and building user-centric,
 :computer: &emsp;Most used line of code `console.log("hello world")` <br/>
 🤔 &emsp;I’m looking for any new opportunities where I could utilize my skills.<br/>
 :e-mail: &emsp;How to reach me: tayabpabel@gmail.com.<br/>
-⚡ &emsp;Fun fact: I co-founded a digital agency WebCrew specializing in creating modern experiences.
+⚡ &emsp;Fun fact: I co-founded a digital agency <a href="https://webcrewbd.com/" target="_blank">WebCrew</a>.
 
